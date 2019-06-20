@@ -24,12 +24,11 @@ paginate = 4
 	custom_js   = []
 	custom_css  = []
 
-
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**We are getting married**,<br />and here are all<br />the details you should know"
+		bio = "**We are getting married!**<br /><br />We'd love<br />for you<br />to join us<br />"
 		# The icons will be shown if you enter your username
 		twitter = "_instantdreams_"
 		github = "instantdreams"
@@ -45,12 +44,10 @@ paginate = 4
 			"Design: [HTML5 UP](//html5up.net)"
 		]
 
-
 	[params.about]
 		hide  = false
 		title = "This is where we get to share our details with you"
-		content = "Friends, family, we want you to be able to share in our special day - but we understand that everyone is scattered around and it can be hard to organise"
-
+		content = "Friends, family, we want you to be able to share in our special day - but we understand not everyone is local to us"
 
 	[params.portfolio]
 		hide  = false
@@ -58,26 +55,26 @@ paginate = 4
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/01.jpg"
-			thumb = "thumbs/01.jpg"
+			image = "fulls/Boston.jpg"
+			thumb = "thumbs/Boston-Thumb.jpg"
 			title = "Engagement"
 			description = "We got engaged on Rachel's birthday in 2019"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/02.jpg"
-			thumb = "thumbs/02.jpg"
+			image = "fulls/PyramidLake.jpg"
+			thumb = "thumbs/PyramidLake-Thumb.jpg"
 			title = "Save the Date"
 			description = "We are planning on getting married on Dean's birthday in 2019"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/03.jpg"
-			thumb = "thumbs/03.jpg"
+			image = "fulls/DrivingtoJasper.jpg"
+			thumb = "thumbs/DrivingtoJasper-Thumb.jpg"
 			title = "Travel to Jasper"
 			description = "We will drive to Jasper on the Saturday"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/04.jpg"
-			thumb = "thumbs/04.jpg"
+			image = "fulls/AthabascaDayUseArea.jpg"
+			thumb = "thumbs/AthabascaDayUseArea-Thumb.jpg"
 			title = "The Ceremony"
 			description = "We will be married at the edge of the beautiful Athabasca river"
 
