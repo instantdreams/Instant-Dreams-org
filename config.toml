@@ -130,7 +130,6 @@ paginate = 4
 			message = "Message"
 			submit = "Send message"
 
-
 # Menu links that appear on the left sidebar
 [[menu.main]]
 	name = "Home"
