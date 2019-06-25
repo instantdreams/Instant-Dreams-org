@@ -28,7 +28,7 @@ paginate = 4
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**We are getting married!**<br /><br />We'd love<br />for you<br />to join us<br />"
+		bio = "**We are getting married!**<br /><br />We'd love for<br />you to join us<br />"
 		# The icons will be shown if you enter your username
 		twitter = "_instantdreams_"
 		github = "instantdreams"
@@ -46,8 +46,8 @@ paginate = 4
 
 	[params.about]
 		hide  = false
-		title = "This is where we get to share our details with you"
-		content = "Friends, family, we want you to be able to share in our special day - but we understand not everyone is local to us"
+		title = "Join us at our celebration"
+		content = "Friends, family, we want you to be able to share in our special day - but we understand not everyone is local"
 
 	[params.portfolio]
 		hide  = false
@@ -70,7 +70,7 @@ paginate = 4
 			image = "fulls/DrivingtoJasper.jpg"
 			thumb = "thumbs/DrivingtoJasper-Thumb.jpg"
 			title = "Travel to Jasper"
-			description = "We will drive to Jasper on the Saturday"
+			description = "We will drive to Jasper on the Saturday before his birthday"
 
 		[[params.portfolio.gallery]]
 			image = "fulls/AthabascaDayUseArea.jpg"
@@ -79,14 +79,14 @@ paginate = 4
 			description = "We will be married at the edge of the beautiful Athabasca river"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/05.jpg"
-			thumb = "thumbs/05.jpg"
+			image = "fulls/JasperTownsite.jpg"
+			thumb = "thumbs/JasperTownsite-Thumb.jpg"
 			title = "Reception"
 			description = "Our reception location is still to be arranged!"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/06.jpg"
-			thumb = "thumbs/06.jpg"
+			image = "fulls/SomewhereInEngland.jpg"
+			thumb = "thumbs/SomewhereInEngland-Thumb.jpg"
 			title = "Visit to England"
 			description = "We will come to England in Spring 2021 to celebrate with you!"
 
