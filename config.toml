@@ -55,38 +55,38 @@ paginate = 4
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
 		[[params.portfolio.gallery]]
-			image = "fulls/Boston.jpg"
-			thumb = "thumbs/Boston-Thumb.jpg"
+			image = "full/Boston.jpg"
+			thumb = "thumb/Boston-Thumb.jpg"
 			title = "Engagement"
 			description = "We got engaged on Rachel's birthday in 2019"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/PyramidLake.jpg"
-			thumb = "thumbs/PyramidLake-Thumb.jpg"
+			image = "full/PyramidLake.jpg"
+			thumb = "thumb/PyramidLake-Thumb.jpg"
 			title = "Save the Date"
 			description = "We are planning on getting married on Dean's birthday in 2019"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/DrivingtoJasper.jpg"
-			thumb = "thumbs/DrivingtoJasper-Thumb.jpg"
+			image = "full/DrivingtoJasper.jpg"
+			thumb = "thumb/DrivingtoJasper-Thumb.jpg"
 			title = "Travel to Jasper"
 			description = "We will drive to Jasper on the Saturday before his birthday"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/AthabascaDayUseArea.jpg"
-			thumb = "thumbs/AthabascaDayUseArea-Thumb.jpg"
+			image = "full/AthabascaDayUseArea.jpg"
+			thumb = "thumb/AthabascaDayUseArea-Thumb.jpg"
 			title = "The Ceremony"
 			description = "We will be married at the edge of the beautiful Athabasca river"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/JasperTownsite.jpg"
-			thumb = "thumbs/JasperTownsite-Thumb.jpg"
+			image = "full/JasperTownsite.jpg"
+			thumb = "thumb/JasperTownsite-Thumb.jpg"
 			title = "Reception"
 			description = "Our reception location is still to be arranged!"
 
 		[[params.portfolio.gallery]]
-			image = "fulls/SomewhereInEngland.jpg"
-			thumb = "thumbs/SomewhereInEngland-Thumb.jpg"
+			image = "full/SomewhereInEngland.jpg"
+			thumb = "thumb/SomewhereInEngland-Thumb.jpg"
 			title = "Visit to England"
 			description = "We will come to England in Spring 2021 to celebrate with you!"
 
