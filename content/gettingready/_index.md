@@ -6,3 +6,5 @@ draft: false
 Getting Ready
 =============
 {{< youtube id="rItv9i6c7AY" autoplay="true" >}}
+
+A few shots of us getting ready

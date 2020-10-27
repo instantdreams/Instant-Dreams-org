@@ -6,3 +6,5 @@ draft: false
 The Ceremony
 ============
 {{< youtube id="tyoAsprwDRc" autoplay="true" >}}
+
+Held in the garden of Rachel's paternal grandparents, with few people in attendance.
