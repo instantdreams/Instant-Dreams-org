@@ -12,7 +12,7 @@ paginate = 4
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Rachel and Dean"
-	description = "Wedding Plans"
+	description = "Our Wedding"
 
 	# Format dates with Go's time formatting
 	date_format = "2006-01-02"
@@ -28,16 +28,16 @@ paginate = 4
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "avatar.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**We are getting married!**<br /><br />We'd love for<br />you to join us<br />"
+		bio = "**We got married!**"
 		# The icons will be shown if you enter your username
-		twitter = "_instantdreams_"
-		github = "instantdreams"
-		gitlab = ""
-		dribbble = ""
-		facebook = "morpheus.dreaming"
-		googleplus = ""
-		flickr = ""
-		linkedin = "deansmith"
+		# twitter = "_instantdreams_"
+		# github = "instantdreams"
+		# gitlab = ""
+		# dribbble = ""
+		# facebook = "morpheus.dreaming"
+		# googleplus = ""
+		# flickr = "morpheus_uk"
+		# linkedin = "deansmith"
 
 		copyright = [
 			"&copy; Instant Dreams",
@@ -46,11 +46,11 @@ paginate = 4
 
 	[params.about]
 		hide  = false
-		title = "Join us at our celebration"
-		content = "Friends, family, we want you to be able to share in our special day - but we understand not everyone is local"
+		title = "Videos"
+		content = "Please click on the links to the left to view the videos"
 
 	[params.portfolio]
-		hide  = false
+		hide  = true
 		title = "The Plan"
 		# The images and thumbnails are stored under static/images
 		# Create and change subfolders as you like
@@ -91,12 +91,11 @@ paginate = 4
 			description = "We will come to England in Spring 2021 to celebrate with you!"
 
 	[params.recentposts]
-#		hide  = false
 		hide  = true
 		title = "Recent blog posts"
 
 	[params.contact]
-		hide  = false
+		hide  = true
 		title = "RSVP"
 		content = "Please let us know if you will be able to make it!"
 
@@ -135,8 +134,23 @@ paginate = 4
 	name = "Home"
 	url  = "/"
 	weight = 10
-#
-#[[menu.main]]
-#	name = "Blog"
-#	url  = "post/"
-#	weight = 0
+
+[[menu.main]]
+	name = "Getting Ready"
+	url  = "gettingready/"
+	weight = 20
+
+[[menu.main]]
+	name = "The Ceremony"
+	url  = "theceremony/"
+	weight = 30
+
+[[menu.main]]
+	name = "Interviews"
+	url  = "interviews/"
+	weight = 40
+
+[[menu.main]]
+	name = "Relaxing"
+	url  = "relaxing/"
+	weight = 50
