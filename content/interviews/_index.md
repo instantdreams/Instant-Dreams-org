@@ -3,17 +3,8 @@ title: "Interviews"
 date: 2020-10-11T14:00:00-07:00
 draft: false
 ---
-# Interviews
+Interviews
+==========
+{{< youtube id="h_1BQqhv-Ak" autoplay="true" >}}
 
-
-
-## On The Day
-{{< youtube id="7UoP9ABJXGE" autoplay="false" >}}
-
-Interviews from everyone who was there
-
-
-## From Afar
-{{< youtube id="tSRYvYN1ayw" autoplay="false" >}}
-
-Messages from those who could not attend
+Interviews from everyone on the day
